@@ -1,1 +1,7 @@
+# folder
+SDL2-2.0.20/
 bin/
+test/
+
+# file
+SDL2.dll
